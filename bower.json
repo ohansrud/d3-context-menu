@@ -12,6 +12,6 @@
     "README.md"
   ],
   "dependencies": {
-    "d3": "3"
+    "d3": "^4.4.1"
   }
 }
